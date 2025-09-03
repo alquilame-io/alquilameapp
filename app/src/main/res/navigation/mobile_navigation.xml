@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_webview">
+
+    <fragment
+        android:id="@+id/nav_webview"
+        android:name="com.io.alquilame.ui.webview.WebviewFragment"
+        android:label="Web App"
+        tools:layout="@layout/fragment_webview" />
+</navigation>

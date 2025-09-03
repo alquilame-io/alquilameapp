@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">Alquilame.io</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alquilame.io</string>
+    <string name="nav_header_subtitle">oscar@alquilame.io</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="register_title">Don\'t have an API key?</string>
+    <string name="register_description">Register at our website to get your API key and start managing your rentals</string>
+    <string name="register_link">Visit https://alquilame.io</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="or_login_manually">or login manually</string>
+    <string name="settings_title">Settings</string>
+    <string name="clear_login_data">Clear Login Data</string>
+    <string name="clear_data_confirmation">Are you sure you want to clear all login data? You will need to login again.</string>
+    <string name="data_cleared">Login data cleared successfully</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="account_section">Account</string>
+    <string name="account_description">Manage your login credentials and account settings</string>
+    <string name="clear_data_description">This will log you out and clear your stored credentials</string>
+</resources>
